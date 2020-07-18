@@ -1,10 +1,10 @@
 {
-  "name": "react-scripts",
+  "name": "pztw-react-scripts",
   "version": "3.4.1",
-  "description": "Configuration and scripts for Create React App.",
+  "description": "PZ Configuration and scripts for Create React App with tailwindcss.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/facebook/create-react-app.git",
+    "url": "https://github.com/wooboo/create-react-app.git",
     "directory": "packages/react-scripts"
   },
   "license": "MIT",
@@ -12,7 +12,7 @@
     "node": ">=8.10"
   },
   "bugs": {
-    "url": "https://github.com/facebook/create-react-app/issues"
+    "url": "https://github.com/wooboo/create-react-app/issues"
   },
   "files": [
     "bin",
@@ -73,6 +73,7 @@
     "sass-loader": "8.0.2",
     "semver": "6.3.0",
     "style-loader": "0.23.1",
+    "tailwindcss": "^1.5.1",
     "terser-webpack-plugin": "2.3.5",
     "ts-pnp": "1.1.6",
     "url-loader": "2.3.0",
